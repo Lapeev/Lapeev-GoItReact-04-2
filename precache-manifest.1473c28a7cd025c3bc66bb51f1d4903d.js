@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Lapeev-GoItReact-04-2/static/js/runtime~main.404be5dc.js"
   },
   {
-    "revision": "e14c2b97fc7ba9e2eb83",
-    "url": "/Lapeev-GoItReact-04-2/static/js/main.0cff38f1.chunk.js"
+    "revision": "f6ce8cc8339aa7b415aa",
+    "url": "/Lapeev-GoItReact-04-2/static/js/main.cdd6eda5.chunk.js"
   },
   {
     "revision": "c9c1651401add314094d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Lapeev-GoItReact-04-2/static/js/2.617de1a3.chunk.js"
   },
   {
-    "revision": "e14c2b97fc7ba9e2eb83",
+    "revision": "f6ce8cc8339aa7b415aa",
     "url": "/Lapeev-GoItReact-04-2/static/css/main.497064b0.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Lapeev-GoItReact-04-2/static/css/2.ece6308d.chunk.css"
   },
   {
-    "revision": "2d691b446a33994aa9d0025e28318ac0",
+    "revision": "01dde89f1fa58d4bdf39510cddd6ca6f",
     "url": "/Lapeev-GoItReact-04-2/index.html"
   }
 ];
