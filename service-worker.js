@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Lapeev-GoItReact-04-2/precache-manifest.3e126f47eacd4d25481e45b56dd57de8.js"
+  "/Lapeev-GoItReact-04-2/precache-manifest.ab201bc9a224c977bbe6722aa6b5e9a3.js"
 );
 
 workbox.clientsClaim();
