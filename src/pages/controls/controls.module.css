@@ -1,0 +1,28 @@
+.controls {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.button {
+  line-height: 80px;
+  font-size: 1.5rem;
+  text-align: center;
+  width: 480px;
+  background: #4b86f7;
+  border-radius: 3px;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+.button:focus, .button:active {
+  outline: none;
+}
+.button:first-child {
+  margin-right: 16px;
+}
+.disabled {
+  background: #cccccc !important;
+  cursor: default;
+  user-select: none;
+}
