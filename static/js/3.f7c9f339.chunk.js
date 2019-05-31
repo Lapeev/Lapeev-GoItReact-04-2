@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{71:function(e,t,n){e.exports={publication:"textPage_publication__1aLkG"}},72:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),i=n(71),l=n.n(i);t.default=function(e){var t=e.title,n=e.text;return c.a.createElement("section",{className:l.a.publication},c.a.createElement("h2",null,t),c.a.createElement("p",null,n))}}}]);
-//# sourceMappingURL=3.f7c9f339.chunk.js.map
