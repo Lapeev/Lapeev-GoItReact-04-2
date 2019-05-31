@@ -11,7 +11,7 @@ const TextPage = lazy(() => import('../textPage/textPage'));
 
 class Controls extends Component {
   state = {
-    value: null,
+    value: 0,
     article: '',
   };
 
